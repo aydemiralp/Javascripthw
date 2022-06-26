@@ -1,0 +1,14 @@
+body {
+    background: grey;
+    text-align: center;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+
+  div {
+    color:rgb(209, 177, 165);
+    font-size: 25px;
+    text-align: center;
+  }
